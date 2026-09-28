@@ -1,5 +1,22 @@
 # TrenchLite
 
+An open-source geotechnical engineering calculation framework.
+
+## Current Status
+
+Implemented:
+- Rankine active earth pressure
+- Coulomb active earth pressure
+- Layered soil profile
+- Groundwater and surcharge loading
+- 2D retaining wall model
+- Linear beam-spring analysis framework
+
+Development stage:
+Phase 2.5
+
+# TrenchLite
+
 TrenchLite 是一个轻量化、开源的狭长沟槽基坑支护计算工具。项目计划逐步支持土压力计算、支护结构分析、钢支撑与围檩验算、稳定验算，以及计算书和附图的自动生成。
 
 ## 当前阶段：Phase 2.6
